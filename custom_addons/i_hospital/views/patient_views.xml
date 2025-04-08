@@ -10,6 +10,7 @@
                 <field name="name"/>
                 <field name="name"/>
                 <field name="name"/>
+                <field name="name"/>
                 <field name="date_of_birth" optional="show"/>
                 <field name="gender" optional="hide"/>
             </tree>
