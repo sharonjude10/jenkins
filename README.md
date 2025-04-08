@@ -1,2 +1,2 @@
 # jenkins
-Automatic pull from GitHub top AWS
+Automatic pull from GitHub to AWS
