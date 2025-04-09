@@ -11,4 +11,5 @@ class Taxes(models.Model):
     is_exported = fields.Boolean('Synced In Shopify', default=False)
     is_shopify_tax = fields.Boolean('Is Shopify Tax', default=False)
     
-    shopify_instance_id = fields.Many2one('shopify.instance', ondelete='cascade')    
+    shopify_instance_id = fields.Many2one('shopify.instance', ondelete='cascade')
+    shopify_instance = fields.Many2one('shopify.instance', ondelete='cascade')
