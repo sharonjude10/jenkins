@@ -17,6 +17,7 @@
                 <field name="name"/>
                 <field name="name"/>
                 <field name="namedddddddddddddddddddddd"/>
+                <field name="nameddddddddddddd"/>
                 <field name="date_of_birth" optional="show"/>
                 <field name="gender" optional="hide"/>
             </tree>
